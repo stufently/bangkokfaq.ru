@@ -27,3 +27,5 @@ hashtag: otelinakrishe
 * [Mode Sathorn Hotel Bangkok](https://maps.app.goo.gl/gkXzFxAXsbmt2ZMu6)
 
 [+66 2 623 4555](tel:+66 2 623 4555)
+
+![Отель с бассейном на крыше](https://bangkokfaq.ru/assets/bangkokkrisha.jpg)
