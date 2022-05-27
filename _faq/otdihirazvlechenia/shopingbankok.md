@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: shopingbankok
 ---
 
-## [Siam Paragon](https://maps.app.goo.gl/ag9FxwnVhe91ZzGr8)
+### [Siam Paragon](https://maps.app.goo.gl/ag9FxwnVhe91ZzGr8)
 [+66 2 690 1000](tel: +66 2 690 1000)
 
 
@@ -13,7 +13,7 @@ hashtag: shopingbankok
 Всего в Siam Paragon представлено более 250 магазинов, в которых можно найти одежду, сувениры и технику. Время работы ТЦ с 10 до 22 часов. Чтобы до него добраться, вы можете воспользоваться наземным метро Бангкока, ехать нужно до станции BTS Siam.
 
 
-## [MBK Center](https://maps.app.goo.gl/SE21LDjty7bSgGUw5)
+### [MBK Center](https://maps.app.goo.gl/SE21LDjty7bSgGUw5)
 [+66 2 853 9000](tel:+66 2 853 9000)
 
 
@@ -21,7 +21,7 @@ hashtag: shopingbankok
 
 Время работы: ежедневно с 10 до 22 часов. Находиться торговый центр MBK около станции метро BTS National Stadium.
 
-## [Central World](https://maps.app.goo.gl/1GfjGR8xLhqtapyP7)
+### [Central World](https://maps.app.goo.gl/1GfjGR8xLhqtapyP7)
 
 [+66 2 640 7000](tel: +66 2 640 7000)
 
@@ -31,7 +31,7 @@ hashtag: shopingbankok
 В 2009 году на одном из этажей торгового центра был построен впечатляющий своими размерами ледовый каток. Central World работает каждый день с 10 до 22 часов. Добраться до него можно с помощью наземного метро, выходить следует на станции Chit Lom или Siam.
 
 
-## [Pantip Plaza](https://maps.app.goo.gl/ErGL6kGZeynEfeiFA)
+### [Pantip Plaza](https://maps.app.goo.gl/ErGL6kGZeynEfeiFA)
 [+66 85 485 3562](tel: +66 85 485 3562)
 
 
