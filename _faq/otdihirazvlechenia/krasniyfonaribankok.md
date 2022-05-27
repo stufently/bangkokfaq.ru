@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: krasniyfonaribankok
 ---
 
-## [Soi Cowboy](https://maps.app.goo.gl/976fv9GhT3hF2crT7)- улица красных фонарей в Бангкоке
+### [Soi Cowboy](https://maps.app.goo.gl/976fv9GhT3hF2crT7)- улица красных фонарей в Бангкоке
 
 Soi Cowboy – известное место в Бангкоке. Его также называют улицей красных фонарей, освещенной по ночам неоновыми вывесками с преобладанием красного цвета.
 
