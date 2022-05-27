@@ -5,7 +5,7 @@ hashtag: hotelbankokt
 ---
 
 ### [Khaosan Art Hotel](https://maps.app.goo.gl/CDYcdF21SY6mQfoJ8)
-[Номер](tel:+66 2 280 3301), [Сайт](http://www.khaosanarthotel.com/)
+[Номер](tel:+66 2 280 3301) | [Сайт](http://www.khaosanarthotel.com/)
 
 В номерах есть кондиционер воздуха. Здоровый и крепкий сон гарантирован благодаря двуспальной кровати. Удобства включают доступ в интернет и WiFi.
 Отель предлагает камеру хранения багажа и бар. WiFi в общественных зонах.
