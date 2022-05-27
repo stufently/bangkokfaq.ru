@@ -12,9 +12,6 @@ hashtag: rinokbankok
 
 * [Sam Yan Market](https://maps.app.goo.gl/to3mvxzUWZoDfemG7)
 
-[+66 2 215 3662](tel: +66 2 215 3662)
-
 
 * [ร้านสมบูรณ์ทรัพย์ ตลาดคลองเตย](https://maps.app.goo.gl/KpZwuRoHj3iDyP3B9)
 
-[+66 91 712 4076](tel:+66 91 712 4076)
