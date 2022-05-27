@@ -19,4 +19,4 @@ hashtag: arendajiliabankok
 
 * [Hotellook.ru](https://Hotellook.ru)
 
-Или [Facebook](https://facebook.com)
+* [Facebook](https://facebook.com)
