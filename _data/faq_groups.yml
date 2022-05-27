@@ -1,4 +1,36 @@
 ---
-- title: faq
-  hashtag: faq
+- title: Аэропорты
+  hashtag: Aeroport
   path: faq
+- title: Жилье
+  hashtag: jilie
+  path: jilie
+- title: Дети
+  hashtag: deti
+  path: deti
+- title: Отдых и Развлечения
+  hashtag: otdihirazvlechenia
+  path: otdihirazvlechenia
+- title: Гос учреждения 
+  hashtag: gos
+  path: gos
+- title: Достопримечательности  
+  hashtag: dosoprimechatelnost
+  path: dosoprimechatelnost
+- title: Еда  
+  hashtag: eda
+  path: eda
+- title: Транспорт
+  hashtag: transport
+  path: transport
+- title: Погода
+  hashtag: pogoda
+  path: pogoda
+- title: Безопасность
+  hashtag: bezopasnost
+  path: bezopasnost
+ 
+  
+  
+  
+  
