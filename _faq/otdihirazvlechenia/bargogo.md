@@ -1,5 +1,5 @@
 ---
-question: Лучшие go go бары бангкока
+question: Лучшие go go бары Бангкока
 ldjson: yes
 hashtag: bargogo
 ---
