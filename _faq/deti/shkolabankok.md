@@ -7,6 +7,7 @@ hashtag: shkolabankok
 
 ### [Regent's International School Bangkok](https://maps.app.goo.gl/sxx6N6PnufZaJ51d9)
 [Номер](tel:+66 2 957 5777) | [Сайт](https://www.regents.ac.th/)
+
 Дневная школа и школа-пансион для учащихся в возрасте от 2 до 18 лет. Школа руководствуется Национальной учебной программой английского языка, начиная с начальной стадии подготовки (EYFS) и заканчивая IGCSE (International General Certificate of Среднее образование) и Дипломная программа IB (Международный бакалавриат) в шестом классе.
 
 
