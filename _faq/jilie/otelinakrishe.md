@@ -6,26 +6,26 @@ hashtag: otelinakrishe
 
 * [Sivatel Bangkok](https://maps.app.goo.gl/sNSM2krHkguiLD3W9)
 
-[+66 2 309 5000](tel:+66 2 309 5000)
+[Номер](tel:+66 2 309 5000) | [Сайт](http://www.sivatelbangkok.com/)
 
 
 * [Top High Airport Link Hotel](https://maps.app.goo.gl/j8dWytdbMUs15NPy8)
 
-[+66 2 253 4396](tel:+66 2 253 4396)
+[Номер](tel:+66 2 253 4396) | [Сайт](https://www.facebook.com/tophighairportlink/)
 
 
 * [Hansar Hotel Bangkok](https://maps.app.goo.gl/o4TimB8juzLU7kJc6)
 
-[+66 2 209 1234](tel:+66 2 209 1234)
+[Номер](tel:+66 2 209 1234) | [Сайт](https://www.hansarhotels.com/hotels/bangkok/)
 
 
 * [Grande Centre Point Ratchadamri](https://maps.app.goo.gl/wFN7Z68k8oHftis27)
  
- [+66 2 091 9000](tel:+66 2 091 9000)
+ [Номер](tel:+66 2 091 9000) | [Сайт](https://www.grandecentrepointratchadamri.com/)
 
 
 * [Mode Sathorn Hotel Bangkok](https://maps.app.goo.gl/gkXzFxAXsbmt2ZMu6)
 
-[+66 2 623 4555](tel:+66 2 623 4555)
+[Номер](tel:+66 2 623 4555) | [Сайт](http://www.modesathorn.com/)
 
 ![Отель с бассейном на крыше](https://bangkokfaq.ru/assets/bangkokkrisha.jpg)
