@@ -1,5 +1,5 @@
 ---
-question: Где в Бангкоке посмотреть на лежащего будду?
+question: Где в Бангкоке посмотреть на лежащего Будду?
 ldjson: yes
 hashtag: bankokbuddaleja
 ---
