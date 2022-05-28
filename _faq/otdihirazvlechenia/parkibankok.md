@@ -17,7 +17,7 @@ hashtag: parkibankok
 
 ### [Benchakitti Park](https://maps.app.goo.gl/GrZcXSFrv1U6HUqw7)
 
-Парк Бенджакитти - общественный парк в районе Клонг Тоэй в центре Бангкока. расположен рядом с Национальным конференц-центром королевы Сирикит. Он находится недалеко от станции метро Queen Sirikit National Convention Center, станции метро Sukhumvit и станции BTS Asok. 
+Парк Бенджакитти - общественный парк в районе Клонг Тоэй в центре Бангкока. Расположен рядом с Национальным конференц-центром королевы Сирикит. Он находится недалеко от станции метро Queen Sirikit National Convention Center, станции метро Sukhumvit и станции BTS Asok. 
 
 ### [Парк Сантипап (Santiphap park)](https://maps.app.goo.gl/fGMRgGeeUw72wwyg6)
 
