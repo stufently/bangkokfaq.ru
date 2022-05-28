@@ -13,8 +13,6 @@ hashtag: bargogo
 
 Простой гей-бар: диско-шар, столики на улице, коктейли и блюда тайской кухни.
 
-[+66 81 657 4321](tel:+66 81 657 4321)
 
 ### [View Rooftop Bar Bangkok](https://maps.app.goo.gl/GgePQe9i22mm6vDe9)
 
-[+66 2 209 1700](tel:+6622091700)
