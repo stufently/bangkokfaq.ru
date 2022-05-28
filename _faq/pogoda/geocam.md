@@ -4,4 +4,4 @@ ldjson: yes
 hashtag: geocam
 ---
 
-# [geocam](https://www.geocam.ru/in/bangkok/)
+ [geocam](https://www.geocam.ru/in/bangkok/)
