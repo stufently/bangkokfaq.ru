@@ -14,3 +14,4 @@ hashtag: bargogo
 
 * [View Rooftop Bar Bangkok](https://maps.app.goo.gl/GgePQe9i22mm6vDe9)
 
+Расположенный на 9-м этаже знаменитого отеля Novotel Bangkok Platinum Pratunam, в самом сердце торгового района Бангкока, View Rooftop Bar Bangkok является самым уникальным баром на крыше Бангкока.
