@@ -1,0 +1,11 @@
+---
+question: Иммиграционный офис в Бангкоке 
+ldjson: yes
+hashtag: immigracionniy-office-bangkok
+---
+
+### [Государственный комплекс](https://maps.app.goo.gl/JfDM812abK7ruvUD7)
+[Номер](tel:02 141 9889) | [Сайт](http://bangkok.immigration.go.th/)
+
+Включающий в себя главный офис иммиграционной службы
+
