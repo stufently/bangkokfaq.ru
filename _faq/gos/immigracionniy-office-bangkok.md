@@ -9,3 +9,9 @@ hashtag: immigracionniy-office-bangkok
 
 Включающий в себя главный офис иммиграционной службы
 
+### [Immigration Office - Short-term VISA](https://maps.app.goo.gl/1hb5qGkmVoPs9eSA9)
+[Сайт](http://www.immigration.go.th/)
+
+
+
+
