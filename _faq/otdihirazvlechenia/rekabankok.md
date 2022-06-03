@@ -1,5 +1,5 @@
 ---
-question: Река в городе Бангкок
+question: Река Чаупхрая (Chao Phraya) в городе Бангкок
 ldjson: yes
 hashtag: rekabankok
 ---
