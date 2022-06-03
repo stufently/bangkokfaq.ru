@@ -1,7 +1,7 @@
 ---
-question: Где в Бангкоке находится аэропорт?
+question: Как добраться до аэропорта в Бангкоке?
 ldjson: yes
-hashtag: bangkokaeroport
+hashtag: bangkokaeroportkakdobratsy
 ---
 
 ### Как добраться из Бангкока до аэропорта?
