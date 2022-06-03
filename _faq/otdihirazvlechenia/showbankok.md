@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: showbankok
 ---
 
-### Шоу кабаре Калипсо
+### [Шоу кабаре Калипсо](https://g.page/CalypsoCabaret?share)
 
 ### РЕЖИМ РАБОТЫ CALYPSO CABARET BANGKOK
 
