@@ -17,8 +17,8 @@ hashtag: arendajiliabankok
 
 [Booking.com](Booking.com) - отели, хостелы на короткий срок
 
-Agoda (!) - дешевле букинга, функционал тот же
+[Agoda](https://www.agoda.com/?cid=-295) - дешевле букинга, функционал тот же
 
-Facebook - найти жилье на длительный срок во встроенном сервисе Marketplace или в тематических группах
+[Facebook](https://facebook.com) - найти жилье на длительный срок во встроенном сервисе Marketplace или в тематических группах
 
 [Airbnb](https://www.airbnb.ru/) - найти жилье на длительный срок
