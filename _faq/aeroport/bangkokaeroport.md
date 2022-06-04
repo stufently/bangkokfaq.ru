@@ -1,5 +1,5 @@
 ---
-question: Где в Бангкоке находится аэропорт?
+question: Аэропорты в Бангкоке
 ldjson: yes
 hashtag: bangkokaeroport
 ---
