@@ -26,31 +26,29 @@ hashtag: bangkokaeroportkakdobratsy
 
 Маршруты автобусов:
 
-A1 до станции метро BTS Chatuchak и автовокзал Мочит откуда напрямую можно добраться до Паттайи (стоимость 30 бат, время работы 06:15-24:00);
+* A1 до станции метро BTS Chatuchak и автовокзал Мочит откуда напрямую можно добраться до Паттайи;
 
-A2 до памятника Victory Monument (стоимость 30 бат, время работы 06:30-23:00);
+* A2 до памятника Victory Monument;
 
-A3 до центра Бангкока и Lumpini Park (стоимость 50 бат, время работы 07:00-23:00);
+* A3 до центра Бангкока и Lumpini Park;
 
-A4 до площади Sanam Luang, Королевского Дворца и улицы Каосан Роад (стоимость 50 бат, время работы 07:00-23:00).
+* A4 до площади Sanam Luang, Королевского Дворца и улицы Каосан Роад.
 
-Автобус Limo Bus Стоимость проезда 150 бат (включен Wi-Fi). Остановка: выходы №6, №7, №8, №14, №15 из зала прилета (1 этаж). Время работы с 09:00 до 00:00.
+Автобус Limo Bus Стоимость проезда 150 бат (включен Wi-Fi). Остановка: выходы №6, №7, №8, №14, №15 из зала прилета (1 этаж).
 
 Городские автобусы Стоимость проезда от 24 до 35 бат. Маршруты автобусов:
 
-№29 (BTS/MRT Mochit, Ari, Victory Monument, BTS Phayathai (for Airport Rail Link), BTS Ratchathewi, MBK, круглосуточно);
+* №29 (BTS/MRT Mochit, Ari, Victory Monument, BTS Phayathai (for Airport Rail Link), BTS Ratchathewi, MBK, круглосуточно);
 
-№59 (BTS Ha Yaek Lad Phrao Station, BTS/MRT Mochit Stations, Ari, Victory Monument, BTS Phaya Thai (for Airport Rail Link), & Democracy Monument for Khao San Road, с 
+* №59 (BTS Ha Yaek Lad Phrao Station, BTS/MRT Mochit Stations, Ari, Victory Monument, BTS Phaya Thai (for Airport Rail Link), & Democracy Monument for Khao San Road;
 
-05:00 до 22:00, по праздникам круглосуточно);
+* №504 (Pratunam, Central World, Lumphini Park, BTS Silom, Saphan Taksin);
 
-№504 (Pratunam, Central World, Lumphini Park, BTS Silom, Saphan Taksin, с 05:00 до 22.00);
+* №510 (Victory Monument, BTS/MRT Mochit);
 
-№510 (Victory Monument, BTS/MRT Mochit, с 04:30 до 22:00);
+* №554 (до аэропорта Суварнабхуми, круглосуточно);
 
-№554 (до аэропорта Суварнабхуми, круглосуточно);
-
-№555 (до аэропорта Суварнабхуми, с 05:00 до 21.30).
+* №555 (до аэропорта Суварнабхуми).
 
 Поезд на котором можно добраться до ЖД станции Hua Lamphong или станции метро BTS Chatuchak. В ближайших планах правительства расширение железнодорожной ветки и её соединение с другими станциями метро BTS.
 
