@@ -1,5 +1,5 @@
 ---
-question: Районы обязательны к посещению в Бангоке
+question: Районы обязательные к посещению в Бангоке
 ldjson: yes
 hashtag: raionbankok
 ---
