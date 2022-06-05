@@ -4,7 +4,7 @@ ldjson: yes
 hashtag: showbankok
 ---
 
-### [MIRINN SHOW](https://goo.gl/maps/h294tFngAyWTQ9m97)
+### MIRINN SHOW
 
 * Наслаждайтесь идеальным сочетанием кабаре и шоу тайских боевых искусств.
 
